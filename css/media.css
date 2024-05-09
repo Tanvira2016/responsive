@@ -1,0 +1,51 @@
+@media (max-width: 575px) {
+    header h1{
+        color: brown;
+    }
+    .phone-image {
+        
+        display: none;
+    }
+    .height {
+        
+        text-align: center;
+    }
+    
+.nav-link {
+    
+    margin: 15px 0;
+    text-align: center;
+    
+}
+
+.feature_content {
+    
+    margin-bottom: 40px;
+}
+.phone {
+    width: 50%;
+    margin: auto;
+}
+
+.details .heading {
+    margin-bottom: 30px;
+    text-align: center !important;
+}
+.details ul {
+  
+    margin-left: 100px;
+}
+.heading {
+    text-align: center !important;
+    
+}
+.table_item {
+  
+    margin-bottom: 30px;
+}
+.btn-download {
+
+    margin-left: 35%;
+}
+
+}
